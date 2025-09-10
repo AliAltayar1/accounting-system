@@ -1,4 +1,4 @@
-📊 Arabic Accounting System
+#📊 Arabic Accounting System
 
 An easy-to-use accounting and inventory management system built for small to medium businesses.
 This project helps shops and companies manage sales, purchases, inventory, suppliers, customers, and financial records in one place.
